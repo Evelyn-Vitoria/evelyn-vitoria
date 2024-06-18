@@ -38,5 +38,6 @@
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fevlyn-vitoria&s=50&c=A901DB&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
-<img width=100% src="https://i.pinimg.com/564x/89/25/0a/89250a32158ecc9c59e75cf67bcb8d6f.jpg"/>
+<div align="center">
+<img width=80% src="https://i.pinimg.com/564x/58/c4/38/58c43830365d8fb2eab1a612a64d7c4e.jpg"/>
 
